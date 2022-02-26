@@ -1,7 +1,7 @@
 #Request for a target variable
 target = int(input("Provide the target value: "))
 # Request for the length of the list
-length_list= int(input("Provide the number of values in your list: "))
+length_list= int(input("Provide the length of your list: "))
 
 # Initialize a list for the numbers
 numbers = []
