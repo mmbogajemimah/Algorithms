@@ -43,4 +43,4 @@ def isIn (test_value, string):
 
         return string[middle_value]
 
-print(isIn ('a', 'Jemiahmbog'))
+print(isIn ('a', 'Jemimah Mmboga'))
